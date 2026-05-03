@@ -1,4 +1,4 @@
-import it.unimi.dsi.fastutil.ints.*;
+import  it.unimi.dsi.fastutil.ints.*;
 import java.util.*;
 
 public abstract class Photo {
